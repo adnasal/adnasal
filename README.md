@@ -5,7 +5,7 @@
 
 💡 &nbsp;I am a creative mind, highly-motivated and always ready for new challenges.\
 🎓 &nbsp;I'm currently majoring in Computer Science with minor in Business at Sarajevo School of Science and Technology.\
-✉️ &nbsp;Feel free to email me at adnasalkovic@htomail.com! I'll try to respond as soon as I can.
+✉️ &nbsp;Feel free to email me at adnasalkovic@hotmail.com! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
